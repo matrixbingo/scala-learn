@@ -1,0 +1,7 @@
+#For .class
+target/
+#For IDE
+.classpath
+.project
+.settings/
+.idea/
